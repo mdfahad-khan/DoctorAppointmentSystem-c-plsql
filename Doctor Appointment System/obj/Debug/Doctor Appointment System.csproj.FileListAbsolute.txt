@@ -1,0 +1,96 @@
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.exe.config
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.exe
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.pdb
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.AssemblyReference.cache
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.SuggestedBindingRedirects.cache
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Login_from.resources
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Properties.Resources.resources
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.GenerateResource.cache
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.CoreCompileInputs.cache
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.exe
+E:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.pdb
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.AssemblyReference.cache
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.SuggestedBindingRedirects.cache
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Add_reports.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.checkBills.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.checkDoctorList.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Check_appointment.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.check_medicine.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.doctorDetails.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.patientMakeBill.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.medicineDetails.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.admin_From.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.appointmentFrom.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.approve_patient.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.manageAppointmentFrom.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.paitient__details.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.patient_reports.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.prescription.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.previous_medical_reports.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Properties.Resources.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.User_approve.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.view_reports.resources
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.GenerateResource.cache
+D:\Everything\All programing\C# programing\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.CoreCompileInputs.cache
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.AssemblyReference.cache
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.SuggestedBindingRedirects.cache
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Add_reports.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.checkBills.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.checkDoctorList.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Check_appointment.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.check_medicine.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.add_doctor.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.doctor_dashborad.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.doctor_salary.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.medicineDetails.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.admin_From.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.appointmentFrom.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.approve_patient.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.manageAppointmentFrom.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.paitient__details.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.patient_dashbord.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.patient_reports.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.prescription.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.previous_medical_reports.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Properties.Resources.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.view_reports.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.GenerateResource.cache
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.CoreCompileInputs.cache
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.exe.config
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.exe
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Doctor Appointment System.pdb
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\EntityFramework.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\EntityFramework.SqlServer.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Buffers.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Memory.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Numerics.Vectors.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Text.Encodings.Web.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Text.Json.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.ValueTuple.dll
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\EntityFramework.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\EntityFramework.SqlServer.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Buffers.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Memory.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Numerics.Vectors.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Text.Encodings.Web.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Text.Json.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\bin\Debug\System.ValueTuple.xml
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.csproj.CopyComplete
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.exe
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor Appointment System.pdb
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Login.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.loading.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Admin_doctor_dashboard.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.Reports_patient.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.doctorlist.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.create_Patient_password.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.medicinelist.resources
+D:\Everything\All programing\C# programing\project\Doctor Appointment System\Doctor Appointment System\obj\Debug\Doctor_Appointment_System.aobut.resources
